@@ -12,7 +12,7 @@
   <p align="center">
     A music player for android
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dung8466/MusicPlayer/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/dung8466/MusicPlayer">View Demo</a>
