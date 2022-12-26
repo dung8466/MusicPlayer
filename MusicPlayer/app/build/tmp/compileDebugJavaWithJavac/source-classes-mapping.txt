@@ -1,0 +1,293 @@
+com/example/musicplayer/nowplaying/AlbumArtViewPagerAdapter.java
+ com.example.musicplayer.nowplaying.AlbumArtViewPagerAdapter
+ com.example.musicplayer.nowplaying.AlbumArtViewPagerAdapter$AlbumArtViewHolder
+com/example/musicplayer/ui/songs/SongsFragment.java
+ com.example.musicplayer.ui.songs.SongsFragment
+ com.example.musicplayer.ui.songs.SongsFragment$1
+ com.example.musicplayer.ui.songs.SongsFragment$2
+ com.example.musicplayer.ui.songs.SongsFragment$3
+ com.example.musicplayer.ui.songs.SongsFragment$4
+ com.example.musicplayer.ui.songs.SongsFragment$5
+ com.example.musicplayer.ui.songs.SongsFragment$6
+ com.example.musicplayer.ui.songs.SongsFragment$7
+ com.example.musicplayer.ui.songs.SongsFragment$7$1
+ com.example.musicplayer.ui.songs.SongsFragment$8
+ com.example.musicplayer.ui.songs.SongsFragment$ActionModeCallback
+com/example/musicplayer/adapters/AlbumsAdapter.java
+ com.example.musicplayer.adapters.AlbumsAdapter
+ com.example.musicplayer.adapters.AlbumsAdapter$1
+ com.example.musicplayer.adapters.AlbumsAdapter$1$1
+ com.example.musicplayer.adapters.AlbumsAdapter$2
+ com.example.musicplayer.adapters.AlbumsAdapter$3
+ com.example.musicplayer.adapters.AlbumsAdapter$3$1
+ com.example.musicplayer.adapters.AlbumsAdapter$ViewHolder
+com/example/musicplayer/ui/playlists/PlaylistsViewModel.java
+ com.example.musicplayer.ui.playlists.PlaylistsViewModel
+com/example/musicplayer/adapters/SongChanged.java
+ com.example.musicplayer.adapters.SongChanged
+com/example/musicplayer/adapters/FolderItemClicked.java
+ com.example.musicplayer.adapters.FolderItemClicked
+com/example/musicplayer/ui/equalizer/VerticalSeekbar.java
+ com.example.musicplayer.ui.equalizer.VerticalSeekbar
+com/example/musicplayer/adapters/AddToPlaylistAdapter.java
+ com.example.musicplayer.adapters.AddToPlaylistAdapter
+ com.example.musicplayer.adapters.AddToPlaylistAdapter$ViewHolder
+com/example/musicplayer/ui/songs/SongsViewModel.java
+ com.example.musicplayer.ui.songs.SongsViewModel
+com/example/musicplayer/BuildConfig.java
+ com.example.musicplayer.BuildConfig
+com/example/musicplayer/nowplaying/NowPlaying.java
+ com.example.musicplayer.nowplaying.NowPlaying
+ com.example.musicplayer.nowplaying.NowPlaying$1
+ com.example.musicplayer.nowplaying.NowPlaying$1$1
+ com.example.musicplayer.nowplaying.NowPlaying$1$2
+ com.example.musicplayer.nowplaying.NowPlaying$10
+ com.example.musicplayer.nowplaying.NowPlaying$11
+ com.example.musicplayer.nowplaying.NowPlaying$11$1
+ com.example.musicplayer.nowplaying.NowPlaying$12
+ com.example.musicplayer.nowplaying.NowPlaying$13
+ com.example.musicplayer.nowplaying.NowPlaying$14
+ com.example.musicplayer.nowplaying.NowPlaying$2
+ com.example.musicplayer.nowplaying.NowPlaying$2$1
+ com.example.musicplayer.nowplaying.NowPlaying$3
+ com.example.musicplayer.nowplaying.NowPlaying$4
+ com.example.musicplayer.nowplaying.NowPlaying$4$1
+ com.example.musicplayer.nowplaying.NowPlaying$5
+ com.example.musicplayer.nowplaying.NowPlaying$5$1
+ com.example.musicplayer.nowplaying.NowPlaying$6
+ com.example.musicplayer.nowplaying.NowPlaying$7
+ com.example.musicplayer.nowplaying.NowPlaying$8
+ com.example.musicplayer.nowplaying.NowPlaying$8$1
+ com.example.musicplayer.nowplaying.NowPlaying$8$2
+ com.example.musicplayer.nowplaying.NowPlaying$8$3
+ com.example.musicplayer.nowplaying.NowPlaying$8$4
+ com.example.musicplayer.nowplaying.NowPlaying$8$5
+ com.example.musicplayer.nowplaying.NowPlaying$9
+ com.example.musicplayer.nowplaying.NowPlaying$ActionModeCallback
+com/example/musicplayer/ui/artists/ArtistsViewModel.java
+ com.example.musicplayer.ui.artists.ArtistsViewModel
+com/example/musicplayer/ui/playlists/PlaylistsFragment.java
+ com.example.musicplayer.ui.playlists.PlaylistsFragment
+ com.example.musicplayer.ui.playlists.PlaylistsFragment$1
+ com.example.musicplayer.ui.playlists.PlaylistsFragment$2
+ com.example.musicplayer.ui.playlists.PlaylistsFragment$3
+ com.example.musicplayer.ui.playlists.PlaylistsFragment$4
+ com.example.musicplayer.ui.playlists.PlaylistsFragment$ActionModeCallback
+com/example/musicplayer/adapters/SelectableAdapter.java
+ com.example.musicplayer.adapters.SelectableAdapter
+com/example/musicplayer/adapters/FoldersAdapter.java
+ com.example.musicplayer.adapters.FoldersAdapter
+ com.example.musicplayer.adapters.FoldersAdapter$1
+ com.example.musicplayer.adapters.FoldersAdapter$1$1
+ com.example.musicplayer.adapters.FoldersAdapter$2
+ com.example.musicplayer.adapters.FoldersAdapter$2$1
+ com.example.musicplayer.adapters.FoldersAdapter$3
+ com.example.musicplayer.adapters.FoldersAdapter$3$1
+ com.example.musicplayer.adapters.FoldersAdapter$4
+ com.example.musicplayer.adapters.FoldersAdapter$5
+ com.example.musicplayer.adapters.FoldersAdapter$5$1
+ com.example.musicplayer.adapters.FoldersAdapter$6
+ com.example.musicplayer.adapters.FoldersAdapter$7
+ com.example.musicplayer.adapters.FoldersAdapter$FoldersViewHolder
+ com.example.musicplayer.adapters.FoldersAdapter$ParentViewHolder
+ com.example.musicplayer.adapters.FoldersAdapter$SongsViewHolder
+com/example/musicplayer/ui/albums/AlbumsFragment.java
+ com.example.musicplayer.ui.albums.AlbumsFragment
+ com.example.musicplayer.ui.albums.AlbumsFragment$1
+ com.example.musicplayer.ui.albums.AlbumsFragment$2
+ com.example.musicplayer.ui.albums.AlbumsFragment$3
+ com.example.musicplayer.ui.albums.AlbumsFragment$4
+ com.example.musicplayer.ui.albums.AlbumsFragment$5
+ com.example.musicplayer.ui.albums.AlbumsFragment$6
+ com.example.musicplayer.ui.albums.AlbumsFragment$ActionModeCallback
+com/example/musicplayer/adapters/ArtistsAdapter.java
+ com.example.musicplayer.adapters.ArtistsAdapter
+ com.example.musicplayer.adapters.ArtistsAdapter$1
+ com.example.musicplayer.adapters.ArtistsAdapter$1$1
+ com.example.musicplayer.adapters.ArtistsAdapter$2
+ com.example.musicplayer.adapters.ArtistsAdapter$3
+ com.example.musicplayer.adapters.ArtistsAdapter$3$1
+ com.example.musicplayer.adapters.ArtistsAdapter$ViewHolder
+com/example/musicplayer/ui/albums/AlbumsViewModel.java
+ com.example.musicplayer.ui.albums.AlbumsViewModel
+com/example/musicplayer/adapters/QueueAdapter.java
+ com.example.musicplayer.adapters.QueueAdapter
+ com.example.musicplayer.adapters.QueueAdapter$1
+ com.example.musicplayer.adapters.QueueAdapter$2
+ com.example.musicplayer.adapters.QueueAdapter$2$1
+ com.example.musicplayer.adapters.QueueAdapter$3
+ com.example.musicplayer.adapters.QueueAdapter$4
+ com.example.musicplayer.adapters.QueueAdapter$ViewHolder
+com/example/musicplayer/ui/artists/ArtistsFragment.java
+ com.example.musicplayer.ui.artists.ArtistsFragment
+ com.example.musicplayer.ui.artists.ArtistsFragment$1
+ com.example.musicplayer.ui.artists.ArtistsFragment$2
+ com.example.musicplayer.ui.artists.ArtistsFragment$3
+ com.example.musicplayer.ui.artists.ArtistsFragment$4
+ com.example.musicplayer.ui.artists.ArtistsFragment$5
+ com.example.musicplayer.ui.artists.ArtistsFragment$6
+ com.example.musicplayer.ui.artists.ArtistsFragment$ActionModeCallback
+com/example/musicplayer/database/Playlists.java
+ com.example.musicplayer.database.Playlists
+com/example/musicplayer/MediaPlayerService.java
+ com.example.musicplayer.MediaPlayerService
+ com.example.musicplayer.MediaPlayerService$1
+ com.example.musicplayer.MediaPlayerService$10
+ com.example.musicplayer.MediaPlayerService$11
+ com.example.musicplayer.MediaPlayerService$12
+ com.example.musicplayer.MediaPlayerService$2
+ com.example.musicplayer.MediaPlayerService$3
+ com.example.musicplayer.MediaPlayerService$4
+ com.example.musicplayer.MediaPlayerService$5
+ com.example.musicplayer.MediaPlayerService$6
+ com.example.musicplayer.MediaPlayerService$7
+ com.example.musicplayer.MediaPlayerService$8
+ com.example.musicplayer.MediaPlayerService$9
+ com.example.musicplayer.MediaPlayerService$MyMediaSessionCallback
+ com.example.musicplayer.MediaPlayerService$MyMediaSessionCallback$1
+com/example/musicplayer/nowplaying/DepthPageTransformer.java
+ com.example.musicplayer.nowplaying.DepthPageTransformer
+com/example/musicplayer/StorageUtil.java
+ com.example.musicplayer.StorageUtil
+ com.example.musicplayer.StorageUtil$1
+com/example/musicplayer/adapters/PlaylistsAdapter.java
+ com.example.musicplayer.adapters.PlaylistsAdapter
+ com.example.musicplayer.adapters.PlaylistsAdapter$1
+ com.example.musicplayer.adapters.PlaylistsAdapter$1$1
+ com.example.musicplayer.adapters.PlaylistsAdapter$2
+ com.example.musicplayer.adapters.PlaylistsAdapter$3
+ com.example.musicplayer.adapters.PlaylistsAdapter$ViewHolder
+com/example/musicplayer/adapters/SearchAdapter.java
+ com.example.musicplayer.adapters.SearchAdapter
+ com.example.musicplayer.adapters.SearchAdapter$1
+ com.example.musicplayer.adapters.SearchAdapter$1$1
+ com.example.musicplayer.adapters.SearchAdapter$2
+ com.example.musicplayer.adapters.SearchAdapter$2$1
+ com.example.musicplayer.adapters.SearchAdapter$3
+ com.example.musicplayer.adapters.SearchAdapter$3$1
+ com.example.musicplayer.adapters.SearchAdapter$4
+ com.example.musicplayer.adapters.SearchAdapter$5
+ com.example.musicplayer.adapters.SearchAdapter$5$1
+ com.example.musicplayer.adapters.SearchAdapter$AlbumViewHolder
+ com.example.musicplayer.adapters.SearchAdapter$ArtistViewHolder
+ com.example.musicplayer.adapters.SearchAdapter$HeaderViewHolder
+ com.example.musicplayer.adapters.SearchAdapter$SongViewHolder
+com/example/musicplayer/adapters/SelectionArray.java
+ com.example.musicplayer.adapters.SelectionArray
+ com.example.musicplayer.adapters.SelectionArray$node
+com/example/musicplayer/database/Albums.java
+ com.example.musicplayer.database.Albums
+com/example/musicplayer/adapters/SongAdapter.java
+ com.example.musicplayer.adapters.SongAdapter
+ com.example.musicplayer.adapters.SongAdapter$1
+ com.example.musicplayer.adapters.SongAdapter$2
+ com.example.musicplayer.adapters.SongAdapter$3
+ com.example.musicplayer.adapters.SongAdapter$3$1
+ com.example.musicplayer.adapters.SongAdapter$4
+ com.example.musicplayer.adapters.SongAdapter$5
+ com.example.musicplayer.adapters.SongAdapter$ViewHolder
+com/example/musicplayer/adapters/SearchAlbumClicked.java
+ com.example.musicplayer.adapters.SearchAlbumClicked
+com/example/musicplayer/database/DataLoader.java
+ com.example.musicplayer.database.DataLoader
+ com.example.musicplayer.database.DataLoader$1
+ com.example.musicplayer.database.DataLoader$2
+ com.example.musicplayer.database.DataLoader$2$1
+ com.example.musicplayer.database.DataLoader$2$2
+ com.example.musicplayer.database.DataLoader$2$3
+ com.example.musicplayer.database.DataLoader$2$4
+ com.example.musicplayer.database.DataLoader$3
+com/example/musicplayer/adapters/PlaylistItemClicked.java
+ com.example.musicplayer.adapters.PlaylistItemClicked
+com/example/musicplayer/database/Songs.java
+ com.example.musicplayer.database.Songs
+com/example/musicplayer/ui/playlists/PlaylistSongsFragment.java
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$1
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$1$1
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$2
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$3
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$4
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$5
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$6
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$7
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$8
+ com.example.musicplayer.ui.playlists.PlaylistSongsFragment$ActionModeCallback
+com/example/musicplayer/ui/albums/AlbumSongsFragment.java
+ com.example.musicplayer.ui.albums.AlbumSongsFragment
+ com.example.musicplayer.ui.albums.AlbumSongsFragment$1
+ com.example.musicplayer.ui.albums.AlbumSongsFragment$2
+ com.example.musicplayer.ui.albums.AlbumSongsFragment$3
+ com.example.musicplayer.ui.albums.AlbumSongsFragment$4
+ com.example.musicplayer.ui.albums.AlbumSongsFragment$5
+ com.example.musicplayer.ui.albums.AlbumSongsFragment$ActionModeCallback
+com/example/musicplayer/adapters/SearchArtistClicked.java
+ com.example.musicplayer.adapters.SearchArtistClicked
+com/example/musicplayer/ui/SettingsActivity.java
+ com.example.musicplayer.ui.SettingsActivity
+ com.example.musicplayer.ui.SettingsActivity$1
+ com.example.musicplayer.ui.SettingsActivity$2
+ com.example.musicplayer.ui.SettingsActivity$3
+ com.example.musicplayer.ui.SettingsActivity$4
+ com.example.musicplayer.ui.SettingsActivity$5
+ com.example.musicplayer.ui.SettingsActivity$6
+ com.example.musicplayer.ui.SettingsActivity$7
+com/example/musicplayer/database/Artists.java
+ com.example.musicplayer.database.Artists
+com/example/musicplayer/ui/folders/FoldersFragment.java
+ com.example.musicplayer.ui.folders.FoldersFragment
+ com.example.musicplayer.ui.folders.FoldersFragment$1
+ com.example.musicplayer.ui.folders.FoldersFragment$2
+ com.example.musicplayer.ui.folders.FoldersFragment$3
+ com.example.musicplayer.ui.folders.FoldersFragment$4
+ com.example.musicplayer.ui.folders.FoldersFragment$5
+ com.example.musicplayer.ui.folders.FoldersFragment$ActionModeCallback
+com/example/musicplayer/ui/search/SearchActivity.java
+ com.example.musicplayer.ui.search.SearchActivity
+ com.example.musicplayer.ui.search.SearchActivity$1
+ com.example.musicplayer.ui.search.SearchActivity$2
+ com.example.musicplayer.ui.search.SearchActivity$2$1
+ com.example.musicplayer.ui.search.SearchActivity$2$1$1
+ com.example.musicplayer.ui.search.SearchActivity$2$1$2
+ com.example.musicplayer.ui.search.SearchActivity$2$1$3
+ com.example.musicplayer.ui.search.SearchActivity$2$2
+ com.example.musicplayer.ui.search.SearchActivity$2$2$1
+ com.example.musicplayer.ui.search.SearchActivity$2$2$2
+ com.example.musicplayer.ui.search.SearchActivity$2$2$3
+ com.example.musicplayer.ui.search.SearchActivity$3
+ com.example.musicplayer.ui.search.SearchActivity$4
+ com.example.musicplayer.ui.search.SearchActivity$4$1
+ com.example.musicplayer.ui.search.SearchActivity$4$1$1
+ com.example.musicplayer.ui.search.SearchActivity$4$1$2
+ com.example.musicplayer.ui.search.SearchActivity$4$1$3
+ com.example.musicplayer.ui.search.SearchActivity$4$2
+ com.example.musicplayer.ui.search.SearchActivity$4$2$1
+ com.example.musicplayer.ui.search.SearchActivity$4$2$2
+ com.example.musicplayer.ui.search.SearchActivity$4$2$3
+ com.example.musicplayer.ui.search.SearchActivity$5
+ com.example.musicplayer.ui.search.SearchActivity$6
+ com.example.musicplayer.ui.search.SearchActivity$7
+ com.example.musicplayer.ui.search.SearchActivity$ActionModeCallback
+com/example/musicplayer/adapters/SearchSongClicked.java
+ com.example.musicplayer.adapters.SearchSongClicked
+com/example/musicplayer/adapters/ItemClicked.java
+ com.example.musicplayer.adapters.ItemClicked
+com/example/musicplayer/MainActivity.java
+ com.example.musicplayer.MainActivity
+ com.example.musicplayer.MainActivity$1
+ com.example.musicplayer.MainActivity$1$1
+ com.example.musicplayer.MainActivity$10
+ com.example.musicplayer.MainActivity$2
+ com.example.musicplayer.MainActivity$3
+ com.example.musicplayer.MainActivity$4
+ com.example.musicplayer.MainActivity$5
+ com.example.musicplayer.MainActivity$6
+ com.example.musicplayer.MainActivity$7
+ com.example.musicplayer.MainActivity$8
+ com.example.musicplayer.MainActivity$8$1
+ com.example.musicplayer.MainActivity$9
+com/example/musicplayer/ui/artists/ArtistAlbumsFragment.java
+ com.example.musicplayer.ui.artists.ArtistAlbumsFragment
+ com.example.musicplayer.ui.artists.ArtistAlbumsFragment$1
+ com.example.musicplayer.ui.artists.ArtistAlbumsFragment$2
+ com.example.musicplayer.ui.artists.ArtistAlbumsFragment$ActionModeCallback
